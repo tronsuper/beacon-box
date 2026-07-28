@@ -1,5 +1,5 @@
 {
-  "ignore": ["README.md", ".gitignore"],
+  "ignore": ["README.md"],
   "commands": {
     "Compile": "tronbox compile",
     "Migrate": "tronbox migrate",
